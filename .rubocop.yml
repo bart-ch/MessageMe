@@ -1,0 +1,3 @@
+# Checks if uses of quotes match the configured preference.
+Style/StringLiterals:
+  Enabled: false
